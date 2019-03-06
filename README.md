@@ -1,4 +1,4 @@
-# Project Title
+# LinkedIn Simulation
 
 One Paragraph of project description goes here
 
