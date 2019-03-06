@@ -1,0 +1,14 @@
+module.exports.LOCAL_PORT = "3001";
+module.exports.UI_SERVER_URL = "http://localhost:3000";
+module.exports.KAFKA_URL = "localhost:2181";
+module.exports.CONNECTION_LIMIT = 10000;
+module.exports.HOST = "linkedin.cx2nnmpqznns.us-east-1.rds.amazonaws.com";
+module.exports.USER = "linkedin_user";
+module.exports.PASSWORD = "linkedin_pass";
+module.exports.DATABASE = "linkedin_master";
+module.exports.SECRET = "Passphrase for encryption should be 45-50 char long";
+module.exports.awsS3Key = "eocyijlS/8Y2BDeiRUGXJ6F8ZijmGa15mGfaQ2v6";
+module.exports.awsS3Id = "AKIAIXD2UYNVFTD6OE5Q";
+module.exports.awsS3Region = "us-east-1";
+module.exports.ResumesBxucket = "linkedin-273/Resumes";
+module.exports.CompanyLogosBucket = "linkedin-273/CompanyLogo";
