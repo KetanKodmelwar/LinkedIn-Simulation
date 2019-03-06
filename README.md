@@ -1,46 +1,88 @@
-# Linkedin-Simulator
+# Project Title
 
-Instruction to pull the project
+One Paragraph of project description goes here
 
-create a direcory called Linkedin
+## Getting Started
 
-> *mkdir Linkedin*
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-go to that folder
+### Prerequisites
 
-> *cd LinkedinServer*
+What things you need to install the software and how to install them
 
-initialize git in it
+```
+Give examples
+```
 
-> *git init*
+### Installing
 
-now pull the code from github
+A step by step series of examples that tell you how to get a development env running
 
-> *git clone https://github.com/vamshireddy08/Linkedin-Server.git*
+Say what the step will be
 
-check the current branch
-> *git branch*
+```
+Give the example
+```
 
-if you are not on the master branch , go to master branch
-> *git checkout master*
+And repeat
 
-create your own branch  (you need to be in master at this step)
-> *git checkout -b your_name*
+```
+until finished
+```
 
-work on the task !!!
+End with an example of getting some data out of the system or using it for a little demo
 
-add the changes you made to your branch
-> git add .
+## Running the tests
 
-commit will make the changes fixed you can't undo the changes after that
-> git commit -m "completed profile backend"
+Explain how to run the automated tests for this system
 
-Danger step Don't forget to pull the code from the github
-> git pull
+### Break down into end to end tests
 
-Now upload th code to github
-> git push
+Explain what these tests test and why
 
-Give credentials if asked
+```
+Give an example
+```
 
-Merge will happen in github
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
